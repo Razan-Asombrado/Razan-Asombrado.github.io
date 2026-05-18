@@ -1,2 +1,2 @@
 # Razan-Asombrado.github.io
-A data analyst portfolio. 
+A data analyst's portfolio from the very beginning. 
