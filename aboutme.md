@@ -11,6 +11,11 @@ My educational background is in Sociology and Asian American Studies, so my prim
 goals lie predictably in ensuring equity, achieving fair outcomes, and building 
 accessibility. 
 
+## Coming Soon:
+SQL Project
+Excel Project 
+Capstone Project
+
 ### Contact Me
 email: a.mav.razan@gmail.com \
 [LinkedIn](https://www.linkedin.com/in/razan-asombrado-aa00b669/)
