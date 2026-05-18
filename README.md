@@ -1,6 +1,13 @@
 # Welcome to my portfolio!
-I am a career switcher from the maritime logistics industry into data analytics.
-I love open-ended roles so that I can pursue any number of niche fields, 
-without needing to being niche myself.
-Data analytics is something that I was already doing in the maritime industry, 
-so I've chosen to take it a step farther by specializing in it. 
+As I am new to the data analyst profession as of 2026, this will be a repository for all 
+projects and visualizations until otherwise. 
+For inquiries, please email me at a.mav.razan@gmail.com. 
+
+## SQL Project 
+Coming soon.
+
+## Capstone Project
+Coming soon.
+
+## Excel Project
+Coming soon.
